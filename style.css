@@ -157,6 +157,12 @@ nav ul li a:hover::after {
 .tab-contents.active-tab {
     display: block;
 }
+#bt{
+    margin: 0%;
+    padding: 0px 8px 0px 8px;
+    border-radius: 5px;
+    background-color: aqua;
+}
 
 /* -------------------------My Servicies--------------------------- */
 #servicies {
